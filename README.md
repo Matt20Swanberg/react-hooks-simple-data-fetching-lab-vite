@@ -68,6 +68,7 @@ src/
 ├── App.jsx
 └── __tests__/
     └── App.test.jsx
-Author
+
+## Author
 
 Created by Matthew Swanberg as part of a React Hooks lab assignment (Course 5, Module 2).
