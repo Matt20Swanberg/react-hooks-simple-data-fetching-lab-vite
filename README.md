@@ -63,12 +63,16 @@ npm run test
 The application retrieves random dog images from:
 
 https://dog.ceo/api/breeds/image/random
-Project Structure
+
+## Project Structure
+
+```text
 src/
-├── App.jsx
+├──  App.jsx
 └── __tests__/
     └── App.test.jsx
+```
 
 ## Author
 
-Created by Matthew Swanberg as part of a React Hooks lab assignment (Course 5, Module 2).
+Created by Matthew Swanberg as part of a React Hooks + Simple Data Fetching lab assignment (Course 5, Module 2).
